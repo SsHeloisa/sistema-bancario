@@ -1,10 +1,13 @@
+
+
+
 menu = """
 
     ---- Selecione uma opção ----
 
-        [1] Depositar
+        [1] Depositar   
         [2] Sacar
-        [3] Estrato 
+        [3] Extrato 
         [4] Sair"
         
     -----------------------------
